@@ -1,0 +1,5 @@
+Fspeptide dataset available in http://dx.doi.org/10.6084/m9.figshare.1030363
+Thrombin-piperidine dataset available at http://pub.htmd.org/tutorials/ligand-binding-analysis/datasets/
+Villin dataset available at http://pub.htmd.org/tutorials/protein-folding-analysis/datasets/
+Benzamidine Trypsin dataset https://www.emma-project.org/v2.0.4/generated/trypsin_benzamidine_hmm.html#trypsin-benzamidine-load-data
+WW-domain - Provided by D.E shaw research
