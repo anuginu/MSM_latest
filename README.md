@@ -13,5 +13,6 @@ To obtain dihedral features are collective variable
 
 3b) %run ga_main_diheds_fspeptide.py/%run ga_main_diheds_benzamidine.py/%run ga_main_diheds_thrombin.py etc
 
-Then run 
+Then run
+
 4) main_modified(#generations) where #generations is the number of iterations to be run for the GA.  
