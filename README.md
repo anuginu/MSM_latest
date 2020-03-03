@@ -6,9 +6,11 @@ To run the script in ipython, following are the steps to be performed
 2) %run fs_peptidefeatures.py / %run benz_trypfeatures.py/%run thrombin_features.py etc
 
 To obtain contact features are collective variable 
+
 3a) %run ga_main_contacts_fspeptide.py/%run ga_main_contacts_benzamidine.py/%run ga_main_contacts_thrombin.py etc
 
 To obtain dihedral features are collective variable 
+
 3b) %run ga_main_diheds_fspeptide.py/%run ga_main_diheds_benzamidine.py/%run ga_main_diheds_thrombin.py etc
 
 Then run 
